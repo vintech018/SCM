@@ -1,1 +1,0 @@
-Vaibhav Chawla - Idea: Improve accessibility by adding ARIA attributes and proper alt text for images.
